@@ -1,0 +1,15 @@
+#btn {
+    margin: 2%;
+    padding: 1%;
+    width:10%;
+    height: 7vh;
+    background-color: rgb(236, 27, 27);
+    text-align: center;
+    color: rgb(255, 255, 255); 
+    font-size: 15px;
+    border: 0;
+    border-radius: 15px;
+}
+#btn:hover {
+    background-color: rgb(161, 92, 6); 
+}
